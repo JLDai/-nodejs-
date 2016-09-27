@@ -1,0 +1,14 @@
+{
+	"author":"JunLiang.Dai",
+	"name":"daijunliang",
+	"version":"0.1.1",
+	"main":"main",
+	"description":"我创建的工具",
+	"respository":{
+		"type":"git",
+		"url":""
+	},
+	"keywords":["tool","DJL"],
+	"dependencies":{},
+	"engines":{"node":"*"}
+}
