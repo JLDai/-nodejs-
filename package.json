@@ -1,3 +1,4 @@
+
 {
 	"author":"JunLiang.Dai",
 	"name":"daijunliang",
@@ -6,7 +7,7 @@
 	"description":"我创建的工具",
 	"respository":{
 		"type":"git",
-		"url":""
+		"url":"https://github.com/JLDai/-nodejs-"
 	},
 	"keywords":["tool","DJL"],
 	"dependencies":{},
